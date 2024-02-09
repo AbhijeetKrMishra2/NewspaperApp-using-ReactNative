@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "News",
-    "slug": "yt-tech-news-app",
+    "slug": "NewspaperApp-using-ReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
